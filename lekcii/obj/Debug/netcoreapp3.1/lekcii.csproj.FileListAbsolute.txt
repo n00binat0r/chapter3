@@ -1,0 +1,13 @@
+E:\Visual Studio\repos\uprajneniq_glava3\lekcii\bin\Debug\netcoreapp3.1\lekcii.exe
+E:\Visual Studio\repos\uprajneniq_glava3\lekcii\bin\Debug\netcoreapp3.1\lekcii.deps.json
+E:\Visual Studio\repos\uprajneniq_glava3\lekcii\bin\Debug\netcoreapp3.1\lekcii.runtimeconfig.json
+E:\Visual Studio\repos\uprajneniq_glava3\lekcii\bin\Debug\netcoreapp3.1\lekcii.runtimeconfig.dev.json
+E:\Visual Studio\repos\uprajneniq_glava3\lekcii\bin\Debug\netcoreapp3.1\lekcii.dll
+E:\Visual Studio\repos\uprajneniq_glava3\lekcii\bin\Debug\netcoreapp3.1\lekcii.pdb
+E:\Visual Studio\repos\uprajneniq_glava3\lekcii\obj\Debug\netcoreapp3.1\lekcii.csprojAssemblyReference.cache
+E:\Visual Studio\repos\uprajneniq_glava3\lekcii\obj\Debug\netcoreapp3.1\lekcii.AssemblyInfoInputs.cache
+E:\Visual Studio\repos\uprajneniq_glava3\lekcii\obj\Debug\netcoreapp3.1\lekcii.AssemblyInfo.cs
+E:\Visual Studio\repos\uprajneniq_glava3\lekcii\obj\Debug\netcoreapp3.1\lekcii.csproj.CoreCompileInputs.cache
+E:\Visual Studio\repos\uprajneniq_glava3\lekcii\obj\Debug\netcoreapp3.1\lekcii.dll
+E:\Visual Studio\repos\uprajneniq_glava3\lekcii\obj\Debug\netcoreapp3.1\lekcii.pdb
+E:\Visual Studio\repos\uprajneniq_glava3\lekcii\obj\Debug\netcoreapp3.1\lekcii.genruntimeconfig.cache
