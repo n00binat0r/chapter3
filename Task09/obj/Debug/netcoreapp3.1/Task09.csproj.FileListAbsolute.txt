@@ -1,0 +1,12 @@
+E:\Visual Studio\repos\uprajneniq_glava3\Task09\bin\Debug\netcoreapp3.1\Task09.exe
+E:\Visual Studio\repos\uprajneniq_glava3\Task09\bin\Debug\netcoreapp3.1\Task09.deps.json
+E:\Visual Studio\repos\uprajneniq_glava3\Task09\bin\Debug\netcoreapp3.1\Task09.runtimeconfig.json
+E:\Visual Studio\repos\uprajneniq_glava3\Task09\bin\Debug\netcoreapp3.1\Task09.runtimeconfig.dev.json
+E:\Visual Studio\repos\uprajneniq_glava3\Task09\bin\Debug\netcoreapp3.1\Task09.dll
+E:\Visual Studio\repos\uprajneniq_glava3\Task09\bin\Debug\netcoreapp3.1\Task09.pdb
+E:\Visual Studio\repos\uprajneniq_glava3\Task09\obj\Debug\netcoreapp3.1\Task09.AssemblyInfoInputs.cache
+E:\Visual Studio\repos\uprajneniq_glava3\Task09\obj\Debug\netcoreapp3.1\Task09.AssemblyInfo.cs
+E:\Visual Studio\repos\uprajneniq_glava3\Task09\obj\Debug\netcoreapp3.1\Task09.csproj.CoreCompileInputs.cache
+E:\Visual Studio\repos\uprajneniq_glava3\Task09\obj\Debug\netcoreapp3.1\Task09.dll
+E:\Visual Studio\repos\uprajneniq_glava3\Task09\obj\Debug\netcoreapp3.1\Task09.pdb
+E:\Visual Studio\repos\uprajneniq_glava3\Task09\obj\Debug\netcoreapp3.1\Task09.genruntimeconfig.cache
